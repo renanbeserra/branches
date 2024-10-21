@@ -3,3 +3,8 @@ Fiz minhas primeiras modificações
 Minha segunda modificação!
 
 Inserindo informações a partir da Branch NF.
+
+a=2
+b=3
+c=a*b
+print(c)
